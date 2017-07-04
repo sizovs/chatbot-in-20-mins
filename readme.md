@@ -6,7 +6,7 @@ This repo contains everything you need to get started building a Slack bot with 
 
 1. Remix a project on Glitch
 
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/eduardsi/chatbot-in-20-mins?clientId=&clientSecret=&port=3000)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/eduardsi/chatbot-in-20-mins)
 
 2. Change auto-generated project name to one that makes more sense
 
