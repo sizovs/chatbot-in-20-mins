@@ -25,7 +25,7 @@ This repo contains everything you need to get started building a Slack bot with 
 1. Invite bot to a channel
 2. Implement [skills/welcome_on_join.js](https://gist.github.com/eduardsi/f2e31b34ad65bb97c949363a972824a5)
 3. Implement [skills/say_something.js](https://gist.github.com/eduardsi/841c35dd500db053fa4cce9ab7db0d8b)
-4. Open `Slash commands` and set up `/pic` slash command that points to `<botUrl>/slack/receive`. The Slack should prompt  you to reinstall the bot. Follow `<reinstall>` link
+4. Open `<Slash commands>` and set up `/pic` slash command that points to `<botUrl>/slack/receive`. The Slack should prompt  you to reinstall the bot. Follow `<reinstall>` link
 5. Implement [skills/pic.js](https://gist.github.com/eduardsi/645d6237503912dd190f06f31df1f4f5)
 6. Enhance [skills/pic.js](https://gist.github.com/eduardsi/0f2ea5b0ed0ca49026c0175b5d4ba2fb) with recommendations
 7. Implement [skills/respond_on_endorsement.js](https://gist.github.com/eduardsi/c9ec9fc9865709e5a458446b29143570)
