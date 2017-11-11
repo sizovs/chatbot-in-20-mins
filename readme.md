@@ -15,10 +15,10 @@ This repo contains everything you need to get started building a Slack bot with 
 2. Set `client id` and `client secret` values in `.env` file
 2. Set a nice bot icon
 4. Open `<OAuth & Permissions>` and set redirect url to `<botUrl>/oauth`
-5. Open `<Interactive messages>` and set request url to `<botUrl>/slack/receive`
+5. Open `<Interactive Components>` and set request url to `<botUrl>/slack/receive`
 6. Open `<Event subscriptions>` and set request url to `<botUrl>/slack/receive`
-7. Open and enable `<Bot User Events>`. Include all `/message.*/` events
-8. Open `<Bot users>`, check `<Always Show My Bot as Online>` and add the bot user
+7. Open and enable `<Bot User Events>`. Enable events, set request url to `<botUrl>/slack/receive` and include all `/message.*/` workspace events
+8. Open `<Bot Users>`, check `<Always Show My Bot as Online>` and add the bot user
 9. Visit the `<botUrl>` and press `<Add to Slack>`
 
 ### Let's code!
